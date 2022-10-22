@@ -1,0 +1,7 @@
+git add .
+git commit -m "mensaje"
+git push origin main
+git checkout "nombre de la rama" (cambiar ramas)
+git checkout -b "nombre de la rama" (crea una rama)
+git branch -r (ve todo las ramas)
+git branch 

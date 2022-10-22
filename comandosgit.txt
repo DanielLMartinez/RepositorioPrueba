@@ -5,3 +5,6 @@ git checkout "nombre de la rama" (cambiar ramas)
 git checkout -b "nombre de la rama" (crea una rama)
 git branch -r (ve todo las ramas)
 git branch 
+git checkout main
+git branch -d "nombre rama" (eliminar rama)
+git branch -f "nombre rama" (forzar rama)
